@@ -2,6 +2,8 @@
 
 A Next.js application for browsing and ordering beers with cart functionality.
 
+Live URL: https://nextjs-beer-app.vercel.app/
+
 ## Features
 
 - Browse beer catalog
