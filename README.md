@@ -49,7 +49,7 @@ The Firebase configuration in `src/lib/firebaseConfig.ts` is set up to use these
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/beer-app.git
+git clone https://github.com/JorgeFi18/beer-app.git
 cd beer-app
 ```
 
