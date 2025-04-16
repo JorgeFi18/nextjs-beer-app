@@ -4,9 +4,7 @@ import { formatCurrency } from '@/lib/utils';
 import { notFound } from 'next/navigation';
 
 interface OrderDetailPageProps {
-  params: {
-    id: string;
-  };
+  params: Promise<{ id: string }>;
 }
 
 export default async function OrderDetailPage({ params }: OrderDetailPageProps) {
